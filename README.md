@@ -19,6 +19,7 @@ A Powerful Music Bot For Telegram Users
 ## 𝘼𝘽𝙊𝙐𝙏 𝙏𝙃𝙄𝙎 𝙏𝙊𝙊𝙇
 ➢ A POWERFUL MUSIC BOT FOR TELEGRAM GROUP/CHANNEL VOICE CHAT
 
-<h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3></h3>
-
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Unemploid/Music">
+#### Deploy on Heroku
+**BEFORE YOU DEPLOY ON HEROKU, YOU SHOULD FORK THE REPO AND CHANGE ITS NAME TO ANYTHING ELSE**<br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
+<a href="https://youtu.be/LCrkRTMkmzE">
